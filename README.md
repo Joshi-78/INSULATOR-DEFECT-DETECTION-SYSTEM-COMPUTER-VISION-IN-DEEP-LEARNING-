@@ -1,2 +1,2 @@
-# INSULATOR-DEFECT-DETECTION-SYSTEM-COMPUTER-VISION-IN-DEEP-LEARNING-
+# Insulator Defect Detection System Based on Computer Vision In Deep Learning
 ######
